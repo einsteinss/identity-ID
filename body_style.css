@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+    position: absolute;
+}
+main{
+
+    position: static;
+    
+    background-color: blue;
+    /* height: auto; */
+    width: 100%;
+    font-family: sans-serif;
+    padding: 100px 40px 40px 40px;
+}

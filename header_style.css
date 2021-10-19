@@ -1,5 +1,5 @@
 header{
-    /* position: absolute; */
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -15,7 +15,7 @@ header{
     display: flex;
     /* align-items: center; */
     justify-content: right;
-    margin: 0 0 2rem 0;
+    /* margin: 0 0 2rem 0; */
     padding: 1.5rem;
 }
 .menu a{
